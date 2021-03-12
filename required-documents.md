@@ -3,8 +3,8 @@
 ## Initial
 - Passport with sign (scans)
 - Passports of relatives (scans)
-- Birth certificates for every family member. Translates + triple apostile (1 for the document, 1 for the tranlsation, 1 for the fasten translation+document can)
-- Marrige certificate (translates + double apostile) or Unmarried certificate (translates + double apostile) for those who expatriates with partner, not husband/wife.
+- Birth certificates for every family member. Translates + and legalisation (apostiles). Amount of apositle differs from one to another. Sometimes 3 (1 for the document, 1 for the tranlsation, 1 for the fasten translation+document can), sometimes 2 (1 for the document, 1 for the translation)
+- Marrige certificate (translates + legalisation) or Unmarried certificate (translates + legalisation) for those who expatriates with partner, not husband/wife.
 - Contract (after offer approval process)
 
 ## For 30% ruling:
