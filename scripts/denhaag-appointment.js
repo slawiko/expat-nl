@@ -9,17 +9,20 @@ function lookup() {
   axios.get(url, {
     headers: { 'API-Key': API_KEY }
   }).then(result => {
+    console.log(`Trying at ${new Date(Date.now())}`);
     const { SlotOptions } = result.data;
     const firstSlot = SlotOptions[0];
     if (checkSlot(firstSlot)) {
-      console.log(firstSlot);
+      console.log(`Found! ${firstSlot.Date}`);
       play();
     } else {
-      console.log(`Trying at ${new Date(Date.now())}`);
+      console.log(`Best slot is ${firstSlot.Date}`);
       setTimeout(() => {
         lookup(url);
-      }, 1000 * (300 + Math.random() * 300));
+      }, 1000 * (600 + Math.random() * 300));
     }
+  }).catch(e => {
+    console.error(e);
   });
 }
 
