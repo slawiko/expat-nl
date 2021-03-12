@@ -1,5 +1,5 @@
-var player = require("play-sound")((opts = {}));
-var axios = require("axios");
+const axios = require('axios');
+const play = require('./utils');
 
 const urls = [
   // 'https://portal.ind.nl/oap/api/desks/AM/slots/?productKey=VAA&persons=1',
@@ -22,14 +22,6 @@ function lookup(url) {
 }
 
 urls.forEach(u => lookup(u));
-
-function play() {
-  setInterval(() => {
-    player.play("to-the-point.mp3", function(err) {
-      if (err) throw err;
-    });
-  }, 2000);
-}
 
 function checkSlot(slot) {
   const when = new Date(slot.date);
