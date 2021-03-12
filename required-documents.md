@@ -1,15 +1,15 @@
-#The list of the documents better to prepare upfront
+# The list of the documents better to prepare upfront
 
 ## Initial
 - Passport with sign (scans)
 - Passports of relatives (scans)
-- Birth certificates for every family member (translates + double apostile)
-- Marrige certificate (translates + double apostile)
+- Birth certificates for every family member. Translates + triple apostile (1 for the document, 1 for the tranlsation, 1 for the fasten translation+document can)
+- Marrige certificate (translates + double apostile) or Unmarried certificate (translates + double apostile) for those who expatriates with partner, not husband/wife.
 - Contract (after offer approval process)
 
 ## For 30% ruling:
-Diploma + translate + doble apostile
-Salary report/certificate for the last 2 years in English (to prove that you lived in Belarus last 2 years)
+- Diploma + translate + double apostile
+- Salary report/certificate for the last 2 years in English (to prove that you lived in Belarus last 2 years). **Important**: make sure you don't have there any statements that can be treated as NL-related transactions. For example Yandex.Taxi is legally based in NL Amsterdam, and taxi-related transactions may contain words "Amsterdam". This is not an issue since you have possibility to explain all those transactions, but it will lengthen the whole process.
 
 ## For school
 Report cards - Relevant information about the school career of the child (if applicable, might need for some school) 
