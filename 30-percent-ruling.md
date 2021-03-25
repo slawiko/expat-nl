@@ -15,15 +15,15 @@ In general you will receive the benefit for 5 years.
 
 ## Process
 
-1. Get a job in the NL as **high skilled** migrant and ensure that company will/can support it. =)
+1. Get a job in the NL as **high skilled** migrant and ensure that company will/can support it. :smiley:
 2. Prepare translates of your diplomas (can help you with the ruling, for example, you will have a lower border of required salary to get ruling if you have a master's degree).
 3. Wait or contact HRs to start the process (in general they will start the process **in a month from the start date** of your contract).
 4. HRs (or specialized service => EY) will send you a list of documents that you need to **fill and return**. You need to use **wet-signature**, sometimes digital variant create for example using a tablet is ok.
 5. HRs will send your info to a **EY serice** that will support your application.
 6. In few days (months) you will get an account in this service.
-7. You should wait, it can take weeks or even several months. =)
+7. You should wait, it can take weeks or even several months. :smile:
 8. In case of issues (EY) service will contact you and ask for some new documents.
-9. You received your 30% ruling (message will appear in the EY service), congrats =)
+9. You received your 30% ruling (message will appear in the EY service), congrats!!! :tada::moneybag::moneybag::moneybag::tada:
 
 ## Documents
 
