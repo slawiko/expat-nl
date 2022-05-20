@@ -9,20 +9,22 @@ function lookup() {
   axios.get(url, {
     headers: { 'API-Key': API_KEY }
   }).then(result => {
-    console.log(`Trying at ${new Date(Date.now())}`);
     const { SlotOptions } = result.data;
     const firstSlot = SlotOptions[0];
     if (checkSlot(firstSlot)) {
-      console.log(`Found! ${firstSlot.Date}`);
+      console.log(`Found! ${firstSlot.Date}. Make an appointment: https://www.denhaag.nl/nl/bestuur-en-organisatie/contact-met-de-gemeente/maak-een-afspraak-met-de-gemeente.htm#select/product/47`);
       play();
     } else {
       console.log(`Best slot is ${firstSlot.Date}`);
       setTimeout(() => {
         lookup(url);
-      }, 1000 * (600 + Math.random() * 300));
+      }, 1000 * (300 + Math.random() * 300));
     }
   }).catch(e => {
     console.error(e);
+    setTimeout(() => {
+      lookup(url);
+    }, 1000 * (600 + Math.random() * 300));
   });
 }
 
